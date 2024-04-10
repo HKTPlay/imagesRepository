@@ -1,2 +1,2 @@
 # imagesRepository
-This is a repository to save my images online.
+This is a repository to save my notes‘ images online.
